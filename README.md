@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tariladei 👋
 
-<!--
-**T-tech26/T-tech26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer in Nigeria, building full-stack web apps with
+Next.js, TypeScript, and Node.js. I'm looking for a junior frontend or
+full-stack role (remote or international).
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Polishing my [portfolio site](https://my-portfolio-rosy-theta-54.vercel.app/)
+- Next: a project management app with workspaces and role-based access
+  (planned)
+- Learning: deeper backend work and automated testing
+
+## Tools I use
+
+TypeScript · React · Next.js · Tailwind CSS · Node.js · NestJS · Express ·
+PostgreSQL · Prisma · Git
+
+## Get in touch
+
+[Portfolio](https://my-portfolio-rosy-theta-54.vercel.app/) ·
+[LinkedIn](https://linkedin.com/in/taridoutua) ·
+[Email](mailto:taridoutua341@gmail.com)
