@@ -18,5 +18,4 @@ TypeScript · React · Next.js · Tailwind CSS · Node.js · Git · Appwrite
 ## Get in touch
 
 [Portfolio](https://my-portfolio-rosy-theta-54.vercel.app/) ·
-[LinkedIn](https://linkedin.com/in/taridoutua) ·
 [Email](mailto:taridoutua341@gmail.com)
